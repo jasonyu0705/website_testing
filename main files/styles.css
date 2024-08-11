@@ -3,8 +3,9 @@
       background-color: lightgreen;
     }
   }
-  .welcome{
-    height:100vw;
+  #body-section1{
+    background-color:blue;
+    padding: 20px;
   }
   #navbar{
     position:sticky;
