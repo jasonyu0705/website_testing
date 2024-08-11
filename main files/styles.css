@@ -4,8 +4,9 @@
     }
   }
   #body-section1{
-    background-color:blue;
+    background-color:beige;
     padding: 20px;
+    height:50vw;
   }
   #navbar{
     position:sticky;
@@ -15,4 +16,11 @@
     padding: 20px;
   
     overflow-y: auto;
+  }
+  #projects{
+    height:50vw;
+    background-color: aqua;
+  }
+  .nav{
+    padding:5px;
   }
