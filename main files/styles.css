@@ -1,3 +1,7 @@
+body{
+  background-image: linear-gradient(aqua, red, green) ;
+}
+
 @media screen and (min-width: 480px) {
     #projects {
       background-color: lightgreen;
@@ -5,7 +9,7 @@
   }
   #body-section1{
     background-color:beige;
-    padding: 20px;
+    width:100vw;
     height:50vw;
   }
   #navbar{
@@ -23,4 +27,11 @@
   }
   .nav{
     padding:5px;
+  }
+
+  #body-text{
+    width:100%;
+  }
+  #body-p1{
+    width:100%;
   }
